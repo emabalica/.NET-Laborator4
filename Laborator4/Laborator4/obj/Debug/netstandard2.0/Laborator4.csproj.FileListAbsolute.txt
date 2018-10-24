@@ -1,0 +1,8 @@
+C:\Cursuri+carti\intro.net(2018)\Laborator4\Laborator4\obj\Debug\netstandard2.0\Laborator4.csproj.CoreCompileInputs.cache
+C:\Cursuri+carti\intro.net(2018)\Laborator4\Laborator4\obj\Debug\netstandard2.0\Laborator4.AssemblyInfoInputs.cache
+C:\Cursuri+carti\intro.net(2018)\Laborator4\Laborator4\obj\Debug\netstandard2.0\Laborator4.AssemblyInfo.cs
+C:\Cursuri+carti\intro.net(2018)\Laborator4\Laborator4\bin\Debug\netstandard2.0\Laborator4.deps.json
+C:\Cursuri+carti\intro.net(2018)\Laborator4\Laborator4\bin\Debug\netstandard2.0\Laborator4.dll
+C:\Cursuri+carti\intro.net(2018)\Laborator4\Laborator4\bin\Debug\netstandard2.0\Laborator4.pdb
+C:\Cursuri+carti\intro.net(2018)\Laborator4\Laborator4\obj\Debug\netstandard2.0\Laborator4.dll
+C:\Cursuri+carti\intro.net(2018)\Laborator4\Laborator4\obj\Debug\netstandard2.0\Laborator4.pdb
